@@ -9,7 +9,7 @@ A view is created with the CREATE VIEW statement.
     SELECT column1, column2, ...
     FROM table_name
     WHERE condition;
-![image]()
+![image](https://github.com/Dharanish-24/Day07_Sql_Internship/blob/main/Screenshot%202025-07-03%20124237.png)
 ### Display View
     SELECT * FROM view_name;
     );
