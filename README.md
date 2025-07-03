@@ -26,7 +26,7 @@ A view can be updated with the CREATE OR REPLACE VIEW statement.
 A view is deleted with the DROP VIEW statement.
     
     DROP VIEW view_name;
-![image]()
+![image](https://github.com/Dharanish-24/Day07_Sql_Internship/blob/main/Screenshot%202025-07-03%20122536.png)
 
 
 
