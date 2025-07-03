@@ -13,7 +13,7 @@ A view is created with the CREATE VIEW statement.
 ### Display View
     SELECT * FROM view_name;
     );
-![image](https://github.com/Dharanish-24/Day07_Sql_Internship/blob/main/Screenshot%202025-07-03%20124453.png-)
+![image](https://github.com/Dharanish-24/Day07_Sql_Internship/blob/main/Screenshot%202025-07-03%20124453.png)
 ### Update view
 A view can be updated with the CREATE OR REPLACE VIEW statement.
 
