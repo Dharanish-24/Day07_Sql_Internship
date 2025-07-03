@@ -1,6 +1,6 @@
 # Views
-In SQL, a view is a virtual table based on the result-set of an SQL statement.  
-A view contains rows and columns, just like a real table. The fields in a view are fields from one or more real tables in the database.
+- In SQL, a view is a virtual table based on the result-set of an SQL statement.  
+- A view contains rows and columns, just like a real table. The fields in a view are fields from one or more real tables in the database.
 
 ### Crate View
 A view is created with the CREATE VIEW statement. 
@@ -13,7 +13,7 @@ A view is created with the CREATE VIEW statement.
 ### Display View
     SELECT * FROM view_name;
     );
-![image]()
+![image](https://github.com/Dharanish-24/Day07_Sql_Internship/blob/main/Screenshot%202025-07-03%20124453.png-)
 ### Update view
 A view can be updated with the CREATE OR REPLACE VIEW statement.
 
