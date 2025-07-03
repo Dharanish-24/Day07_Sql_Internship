@@ -21,7 +21,7 @@ A view can be updated with the CREATE OR REPLACE VIEW statement.
     SELECT patient_id, patient_name, age
     FROM patient
     WHERE age > 20;
-![image]()
+![image](https://github.com/Dharanish-24/Day07_Sql_Internship/blob/main/Screenshot%202025-07-03%20122332.png)
 ### Drop View
 A view is deleted with the DROP VIEW statement.
     
